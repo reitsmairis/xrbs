@@ -18,9 +18,9 @@ This project is a thesis for the Master Physics and Astronomy with the track Ast
 
 ---
 ## Project Structure 
-1) [`FSRED_post_processing`](./FSRED_post_processing.ipynb): 
-2) [`open_files`](./open_files.ipynb): 
-3) [`psf`](./psf.ipynb): 
+1) [`FSRED_post_processing`](./FSRED_post_processing.ipynb): This notebook is used to preview, calibrate, and extract photometric FourStar image data of possible X-ray binary (XRB) counterparts within a presumed error circle indicating the XRB position.
+2) [`open_files`](./open_files.ipynb): This notebook is used for opening the fits and cat files resulting from FSRED.
+3) [`psf`](./psf.ipynb): This notebook is used for doing psf on blended or undetected sources. 
 
 ---
 ## Installation 
