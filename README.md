@@ -1,6 +1,8 @@
+$${\color{red}NOTE:\space  this\space  project\space  is\space  still\space  under\space  construction}$$
+
 # FourStar Post-Processing scripts
 
-NOTE: this project is still under construction
+
 
 This GitHub includes scripts to preview, calibrate, and extract photometric FourStar image data of possible X-ray binary (XRB) counterparts that results from the FSRED pipeline
 
