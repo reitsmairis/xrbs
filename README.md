@@ -19,11 +19,12 @@ This project is a thesis for the Master Physics and Astronomy with the track Ast
 ---
 ## Project Structure 
 1) [`FSRED_post_processing`](./FSRED_post_processing.ipynb): 
-
+2) [`open_files`](./open_files.ipynb): 
+3) [`psf`](./psf.ipynb): 
 
 ---
 ## Installation 
-1) Make sure to have Python version ... installed on your machine. This project used [Anaconda](https://www.anaconda.com/), which comes with Python and a lot of nice libraries, as well as a terminal.
+1) Make sure to have Python version TODO installed on your machine. This project used [Anaconda](https://www.anaconda.com/), which comes with Python and a lot of nice libraries, as well as a terminal.
 
 2) Clone this repository using the terminal:
     ```bash
