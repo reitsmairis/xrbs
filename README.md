@@ -14,7 +14,7 @@ This project is a thesis for the Master Physics and Astronomy with the track Ast
 
 ---
 ## Project Structure 
-1) [`FSRED_post_processing`](./fsred_post_processing): 
+1) [`FSRED_post_processing`](./fsred_post_processing.ipynb): 
 
 
 ---
