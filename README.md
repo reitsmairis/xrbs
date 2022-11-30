@@ -6,6 +6,10 @@ $${\color{red}NOTE:\space  this\space  project\space  is\space  still\space  und
 
 This GitHub includes scripts to preview, calibrate, and extract photometric FourStar image data of possible X-ray binary (XRB) counterparts that results from the FSRED pipeline
 
+Author: Iris Reitsma <br />
+Co-authors: Dr. Juan Hernandez Santisteban & Jari van opijnen
+Data for the project is obtained by: Dr. Nathalie Degenaar (2013-2014), Aastha S. Parikh (2018), Prof. Dr. Rudy Wijnands (2018), Dr. Renee Ludlam (2018)
+
 
 ## About the Project
 This project is a thesis for the Master Physics and Astronomy with the track Astronomy and Astrophysics at the University of Amsterdam.
