@@ -1,0 +1,311 @@
+Source,Literature position (J2000),Distance,Filter/Obs,Problems?,Mag u018918,Err Mag u018918,Mag Taurus ,Err Mag Taurus,SExtractor flag,"90% astrometric error ("")",Zp error (mag),,Time,Notes Nathalie
+Sources observed in night of 2014-05-07,,,,,,,,,,,,,,
+EXO_0748-676,07 48 33.71 -67 45 07.7 (0.2 arcsec),,J/2836,,20.905659,0.09417507,20.905659,0.09417507,,,,,2014-05-08 0:42:36,NS transient that was in quiescence during our observations
+,https://ui.adsabs.harvard.edu/abs/2003AJ....125..984M,,H/2827,(images are now the same: u018918 changed values w.r.t. last time),20.021292,0.100277275,20.021292,0.100277275,,,,,2014-05-08 0:29:35,"quiescent OIR counterpart is known, but we were interested in detecting potential variability for the accretion disk building up in quiescence"
+,,,Ks/2818,,19.911205,0.15914378,19.911205,0.15914378,,,,,2014-05-08 0:15:46,this is a relevant paper: https://iopscience.iop.org/article/10.1088/0004-637X/697/1/L14/meta
+MAXI_J0556-332,05 56 46.32 -33 10 28.2,,J/2789,Distortion failed,,,,,,,,,2014-05-07 23:32:39,(very) bright NS transient that was in quiescence during our observations; nIR quiescent counterpart not reported yet
+,https://ui.adsabs.harvard.edu/abs/2011ATel.3103....1K,,J/2791,Elongated sources on both Taurus and u018918 (was only Taurus before),19.478037,0.041572805,,,,,,,2014-05-07 23:34:08,this is the relevant paper: https://iopscience.iop.org/article/10.1088/0004-637X/697/1/L14/meta
+,,,H/2800,Stuck on Taurus and u018918,?19.272583,?0.06301315,,,,,,,2014-05-07 23:46:39,
+,,,Ks/2809,(images are now the same),19.04228,0.07614971,19.04228,0.07614971,,,,,2014-05-07 23:58:41,
+XSS_J12270-4859,12 27 58.7475950389 -48 53 42.826034125,,J/2845,Syst. astrometric offset on both Taurus and u018918 (before only on Taurus and different images: u018918 changed values),17.166628,0.012503633,17.166628,0.012503633,,,,,2014-05-08 0:58:47,"source shows factor ~10 X-ray variability on years timescales, so nIR magnitudes could be a bit different than from the literature"
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,H/2854,(now okay; before stuck on u018918 & Syst. magnitude offset Taurus),16.570377,0.012664714,16.570377,0.012664714,,,,,2014-05-08 1:06:26,
+,,,Ks/2863,No mef.cat files,,,,,,,,,2014-05-08 1:15:32,
+,,,Ks/2864,(now okay; before different images & Syst. magnitude offset u018918 & Syst. astrometric offset Taurus),16.448586,0.01703421,16.448586,0.01703421,,,,,2014-05-08 1:16:02,
+IGR_J1706.2-6143,17 06 16.2874822889 -61 42 40.568398724,,J/2982,This needs psf acccording to juans paper,19.602876,0.08768447,19.602876,0.08768447,,0.3,,,2014-05-08 5:11:26,"persistent source, Juan's paper report on these Magellan/FourSTAR data"
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,J/2991,Stuck on Taurus and u018918,,,,,,,,,2014-05-08 5:13:35,(no radio counterpart)
+,,,J/3000,Different images,19.470644,0.043191966,19.457405,0.043199487,,0.3,,,2014-05-08 5:36:11,see Juan's paper for the counterpart and finding chart: https://ui.adsabs.harvard.edu/abs/2019MNRAS.488.4596H/abstract
+,,,H/3009,,19.113211,0.053608302,19.113211,0.053608302,,0.3,,,2014-05-08 5:42:05,
+,,,H/3018,,19.351776,0.09698766,19.351776,0.09698766,,0.3,,,2014-05-08 5:47:17,
+,,,Ks/3027,Different images,19.014813,0.14104328,19.13136,0.1490796,,0.3,,,2014-05-08 5:54:12,
+,,,Ks/3036,Different images,18.751023,0.10752729,18.810918,0.11006885,,0.3,,,2014-05-08 5:56:24,
+RX_J1735.3-3540,17 35 23.75 -35 40 16.1 (0.56 arcsec),,J/3081,,15.239991,0.0065879184,15.239991,0.0065879184,,0.4,,,2014-05-08 6:21:23,"persistent source, expect somewhat similar nIR magntiudes as in my 2010 paper"
+,https://ui.adsabs.harvard.edu/abs/2008ATel.1528....1I,,J/3090,Different images,15.281934,0.0069119334,15.263882,0.0069230725,,0.4,,,2014-05-08 6:23:47,(no radio counterpart)
+,,,H/3063,,14.168526,0.005020459,14.168526,0.005020459,,0.4,,,2014-05-08 6:16:15,"see indeed my paper for the position, finding chart and previous nIR magnitudes: https://ui.adsabs.harvard.edu/abs/2010MNRAS.404.1591D"
+,,,H/3072,,13.998556,0.0050091133,13.998556,0.0050091133,,0.5,,,2014-05-08 6:18:16,
+,,,Ks/3045,,13.597254,0.005271042,13.597254,0.005271042,,0.6,,,2014-05-08 6:07:19,
+,,,Ks/3054,,13.7172,0.005404328,13.7172,0.005404328,,0.5,,,2014-05-08 6:09:48,
+XMMU_J174716.1-281048,C1: 17 47 16.20 -28 10 47.62 (0.03 arcsec) (in our images: 17 47 16.12 -28 10 46.7),,J/3099,Fsub error on Taurus and u018918,C1:  ; C2:,C1:  ; C2:,C1:  ; C2:,C1:  ; C2:,,,,,2014-05-08 6:29:57,"very faint, very absorbed source; was likely in quiescence during our observations while it was in outburst during the Kaur+ paper"
+(Data calibrated),C2: 17 47 16.16 -28 10 48.72 (0.03 arcsec) (in our images: 17 47 16.09 -28 10 47.8),,J/3108,,C1:18.119194 ; C2: 19.351796,C1: 0.028680729 ; C2: 0.060280107,C1: 18.119194 ; C2: 19.351796,C1: 0.028680729 ; C2: 0.060280107,,0.8,0.13,,2014-05-08 6:33:18,Check if one of the potential candidates in the Kaur paper has a very different magnitude in our data (which would be expected if it was indeed in different states)
+,https://ui.adsabs.harvard.edu/abs/2017MNRAS.464..170K,,H/3117,Different images,C1: 14.346564 ; C2: 15.669441,C1: 0.009585986 ; C2: 0.015617744,C1: 14.350934 ; C2: 15.678965,C1: 0.009499211 ; C2: 0.015528312,,1.1,0.14,,2014-05-08 6:37:45,(no radio counterpart)
+,,,H/3126,,C1: 14.590176 ; C2: 15.874569,C1: 0.010645062 ; C2: 0.01743095,C1: 14.590176 ; C2: 15.874569,C1: 0.010645062 ; C2: 0.01743095,,0.9,0.15,,2014-05-08 6:41:37,
+,,,Ks/3135,,C1: 13.272769 ; C2: 14.210149,C1: 0.0076530697 ; C2: 0.014185478,C1: 13.272769 ; C2: 14.210149,C1: 0.0076530697 ; C2: 0.014185478,,1,0.13,,2014-05-08 6:47:51,
+,,,Ks/3144,,C1: 13.085158 ; C2: 14.026503,C1: 0.0074934065 ; C2: 0.0156242,C1: 13.085158; C2: 14.026503,C1: 0.0074934065; C2: 0.0156242,,1,0.16,,2014-05-08 6:49:57,
+IGR_J17494-3030,17 49 23.62 -30 29 59.0 https://ui.adsabs.harvard.edu/abs/2020ATel14146....1C,,Ks/3153,Fsub error on Taurus and u018918,,,,,,,,,2014-05-08 7:03:12,I don't think there are optical or nIR counterparts known for this source. It's a NS transient that was in quiescence during our observations
+,17 49 23.61 -30 29 59.1 https://ui.adsabs.harvard.edu/abs/2020ATel14129....1V,,Ks/3162,too faint,,,,,,,,,2014-05-08 7:05:33,It's very faint + pretty absorbed so I consider it very unlikely that the Gaia entry is this source
+,,,Ks/3171,Fsub error on Taurus and u018918,,,,,,,,,2014-05-08 7:51:39,
+SAX_J1818.7+1424,18 18 44.0 +14 24 12 https://www.aanda.org/articles/aa/pdf/2002/36/aah3274.pdf,,H/3180,,,,,,,,,,2014-05-08 8:42:27,Burst-only source with large positional error during outburst because it was only detected with an old X-ray satellite. 
+,18 18 35.6  +14 22 32 (unknown),,H/3189,,,,,,,,,,2014-05-08 8:44:36,Observations with Chandra revealed several possible queiscent X-ray counterparts : https://ui.adsabs.harvard.edu/abs/2002A%26A...392..931C/abstract
+,,,H/3198,,,,,,,,,,2014-05-08 9:13:34,Check for all of the possible counterparts if these have nIR counterparts in our data (this can help identify which can be the LMXB)
+,,,,,,,,,,,,,,
+Sources observed in night of 2013-06-16,,,,"Due to automatic running, reasons of errors are often not verified from here on",,,,,,,,,,
+Swift_J1357.2-0933,13 57 16.8357614768 -09 32 38.793867836,,Ks/0050,No mef.cat files,,,,,,,,,2013-06-16 23:21:57,transient BH that was in quiescence during our observations
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,Ks/0051,,18.432451,0.13484804,18.432451,0.13484804,,,,,2013-06-16 23:24:22,this paper reports on quiescent nIR observations: https://ui.adsabs.harvard.edu/abs/2016MNRAS.456.2707P/abstract
+,see notes in last column,,Ks/0080,,18.425894,0.26172763,18.425894,0.26172763,,,,,2013-06-17 1:31:41,"it's likely still accreting in quiescence, so we might expect some nIR variability"
+,this source is also in BLACKCAT (http://www.astro.puc.cl/BlackCAT/index.php ),,Ks/0085,,18.097456,0.040253397,18.097456,0.040253397,,,,,2013-06-17 1:37:49,
+,,,H/0090,Distortion failed,,,,,,,,,2013-06-17 2:00:38,
+,,,H/0095,No mef.cat files,,,,,,,,,2013-06-17 2:05:02,
+,,,H/0096,Different images,18.5618,0.028427843,18.565014,0.028539883,,,,,2013-06-17 2:08:11,
+AX_J1538.3-5541,15 38 13.68 -55 42 13.1 https://ui.adsabs.harvard.edu/abs/2012A&A...540A..22D,,H/0101,,,,,,,,,,2013-06-17 2:36:16,very faint and very absorbed + a crowded field -- might be difficult to find the counterpart
+,15 38 13.8 -55 42 11.9 https://ui.adsabs.harvard.edu/abs/2007ATel.1209....1K,,H0106,,,,,,,,,,2013-06-17 2:44:40,(no radio counterpart)
+,15 38 18.24 -55 56 16.8 https://ui.adsabs.harvard.edu/abs/2007A&A...469..807L,,Ks/0111,,,,,,,,,,2013-06-17 2:51:38,
+,take the coordinates from my 2012 paper,,Ks/0116,,,,,,,,,,2013-06-17 2:54:36,
+AX_J1620.1-5002,16 20 12.0 -50 2 12 (1arcmin) https://ui.adsabs.harvard.edu/abs/2001ApJS..134...77S,,Ks/0121,,,,,,,,,,2013-06-17 3:06:26,"take the position from my 2012 paper -- unclear if this is an X-ray binary, it could also be an accreting white dwarf so I'm not sure what to expect"
+,16 20 6.76 -50 1 58.0 (2.8 arcsec XRT) https://ui.adsabs.harvard.edu/abs/2012A&A...540A..22D,,Ks/0126,crowded field: multiple counterparts and some sources detected as 1 while they are multiple ,,,,,,,,,2013-06-17 3:09:24,(no radio counterpart)
+,245.03 -50.01 https://ui.adsabs.harvard.edu/abs/2018ATel11252....1L,,H/0131,crowded field: multiple counterparts and some sources detected as 1 while they are multiple,,,,,,,,,2013-06-17 3:16:06,
+GX_339-4,17 02 49.3810714542 -48 47 23.163091737,,H/0156,Small magnitude offset on both Taurus and u018918,16.210688,0.013939727,16.210688,0.013939727,,,,,2013-06-17 4:10:04,BH transient that was in quiescence during our observations
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,H/0161,,16.543966,0.031216985,16.543966,0.031216985,,,,,2013-06-17 4:19:01,likely has a nIR quiescent counterpart reported somewhere already (though I'm not 100% sure)
+,this source is also in BLACKCAT (http://www.astro.puc.cl/BlackCAT/index.php ),,H/0166,Small magnitude offset on both Taurus and u018918 (probably caused by yin-yang like patterns in images),,,,,,,,,2013-06-17 4:21:27,
+,,,H/0171,Small magnitude offset on both Taurus and u018918 (probably caused by yin-yang like patterns in images),,,,,,,,,2013-06-17 4:34:36,
+IGR_J1706.2-6143,17 06 16.2874822889 -61 42 40.568398724 (0.002) in J2015.5,,H/0176,Different images,18.994595,0.1288148,19.006243,0.12640157,,0.3,,,2013-06-17 4:50:00,see notes of previous observation
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,H/0181,ALL OF THESE NEED PSF or upper limit,19.262211,0.08837193,19.262211,0.08837193,,0.3,,,2013-06-17 5:01:00,"it displays a factor of ~10 variability in X-rays, so might expect some nIR variability as well"
+,see previous notes on this source,,H/0186,Source undetected on both Taurus and u018918,>19.354680,0.33532816,>19.354680,0.33532816,,0.3,,,2013-06-17 5:08:39,
+,,,J/0191,,19.560403,0.08177771,19.560403,0.08177771,,0.3,,,2013-06-17 5:11:40,
+,,,Ks/0196,,19.193726,0.124455385,19.193726,0.124455385,,0.3,,,2013-06-17 5:19:25,
+,,,Ks/0201,Source undetected on both Taurus and u018918,>18.847415,0.21712106,>18.847415,0.21712106,,0.2,,,2013-06-17 5:26:27,
+,,,J/0206,Source undetected on both Taurus and u018918,>20.717169,0.7874909,>20.717169,0.7874909,,0.3,,,2013-06-17 5:29:58,
+Galactic_center,don't bother with this data (it's a mess),,J/0211,,,,,,,,,,2013-06-17 5:36:10,
+,,,J/0216,,,,,,,,,,2013-06-17 5:41:30,
+,,,H/0221,,,,,,,,,,2013-06-17 5:58:41,
+,,,H/0226,,,,,,,,,,2013-06-17 6:05:48,
+,,,Ks/0231,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2013-06-17 6:24:16,
+,,,Ks/0236,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2013-06-17 6:26:33,
+RXS_J171824.2-402934,17 18 24.13 -40 29 30.4 https://ui.adsabs.harvard.edu/abs/2003A&A...411L..59E,,Ks/0241,,,,,,,,,,2013-06-17 6:42:34,this is a persistent very-faint NS X-ray binary; distance from bursts
+,"17 18 24.144 -40 29 33.04 https://ui.adsabs.harvard.edu/abs/2005A&A...440..287I gives 't zand' position: 17 18 24.144 -40 29 33.04 (0.6"", chandra)",,Ks/0246,,,,,,,,,,2013-06-17 6:45:16,look at both potential counterparts of the in't Zand paper (I'm not convinced it's the one they want it to be)
+,17 18 24.14 -40 29 33.00 Vizier,,Ks/0251,Iris: images not well stacked,,,,,,,,,2013-06-17 6:57:00,(no radio counterpart)
+,259.601 -40.492 http://hxmten.ihep.ac.cn/images/scan_data/web/1RXS_J171824.2-40293/1RXS_J171824.2-40293.html,,H/0256,,,,,,,,,,2013-06-17 7:09:08,
+,17 18 24.17 -40 29 33.10 https://ui.adsabs.harvard.edu/abs/2009A&A...506..857I,,H/0261,,,,,,,,,,2013-06-17 7:15:49,
+,look at the last one (2009 in't Zand) for the position of different candidates + finding chart,,J/0266,,,,,,,,,,2013-06-17 7:18:57,
+,,,J/0271,,,,,,,,,,2013-06-17 7:21:16,
+Swift_J1922.7-1716,"19 22 37.00 -17 17 1.1 (0.61 arcsec, optical) https://ui.adsabs.harvard.edu/abs/2011GCN.12522....1B",,Ks/0291,"Source too faint to be detectable & Upper limit taken from left two arrays, since right two are extremely noisy. Iris: very noisy image",>18.391077,0.2535912,>18.391077,0.2535912,,,,,2013-06-17 8:00:32,see this paper for the position (and distance):
+,19 22 37.0 -17 17 2.6 (3.2 arcsec) https://ui.adsabs.harvard.edu/abs/2006A&A...456L...5F,,Ks/0296,Source too faint to be detectable,>23.697067,9.035607,>23.697067,9.035607,,,,,2013-06-17 8:07:36,https://ui.adsabs.harvard.edu/abs/2012ApJ...759....8D/abstract
+,,,H/0301,Source too faint to be detectable,>20.262498,0.33716643,>20.262498,0.33716643,,,,,2013-06-17 8:32:05,
+,,,H/0306,Different images & Source inside stripe,,,,,,,,,2013-06-17 8:34:12,
+47Tuc,don't bother with this data for now (science case was different),,Ks/0331,No mef.cat files (probably),,,,,,,,,2013-06-17 9:28:44,globular cluster
+,,,Ks/0336,No mef.cat files (probably),,,,,,,,,2013-06-17 9:35:10,
+,,,H/0341,No mef.cat files (probably),,,,,,,,,2013-06-17 9:46:16,
+,,,H/0346,No mef.cat files,,,,,,,,,2013-06-17 9:55:43,
+,,,,,,,,,,,,,,
+Sources observed in night of 2013-06-17,,,,,,,,,,,,,,
+MAXI_J1305-704,13 06 55.300 -70 27 05.11,,Ks/0452,No mef.cat files (probably),,,,,,,,,2013-06-17 23:23:39,transient BH that was in quiescence during our observations
+,https://ui.adsabs.harvard.edu/abs/2016A&A...587A..61C,,Ks/0453,Source too faint to be detectable,,,,,,,,,2013-06-17 23:24:37,
+,"yep, the BLACKCAT catalog is good for this source!",,Ks/0458,,17.515215,0.10421792,17.515215,0.10421792,,,,,2013-06-17 23:28:23,
+,,,Ks/0463,Distortion failed,,,,,,,,,2013-06-17 23:44:52,
+,,,H/0468,,17.372196,0.17712756,17.372196,0.17712756,,,,,2013-06-17 23:49:25,
+,,,H/0473,,17.638039,0.04395017,17.638039,0.04395017,,,,,2013-06-17 23:51:40,
+,,,J/0478,Different images,18.082226,0.085612305,18.05454,0.091628015,,,,,2013-06-18 0:09:51,
+,,,J/0483,Different images,18.26209,0.018808752,18.198353,0.018639214,,,,,2013-06-18 0:13:15,
+Swift_J1357.2-0933,13 57 16.8357614768 -09 32 38.793867836,,J/0488,,19.675623,0.1280753,19.675623,0.1280753,,,,,2013-06-18 0:39:49,
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,J/0493,No TARGETS on u018918 (unknown reason),,,,,,,,,2013-06-18 0:43:11,
+,,,H/0498,Distortion failed,,,,,,,,,2013-06-18 1:05:21,
+,,,H/0503,Distortion failed,,,,,,,,,2013-06-18 1:07:34,
+,,,Ks/0508,No mef.cat files (probably),,,,,,,,,2013-06-18 1:27:00,
+,,,Ks/0509,Distortion failed,,,,,,,,,2013-06-18 1:27:24,
+,,,Ks/0514,,18.06599,0.028959798,18.06599,0.028959798,,,,,2013-06-18 1:29:43,
+GX_339-4,17 02 49.3810714542 -48 47 23.163091737,,H/0519,Astrometric offset on both Taurus and u018918,16.045563,0.020044228,16.045563,0.020044228,,,,,2013-06-18 1:52:57,
+,https://ui.adsabs.harvard.edu/abs/2018yCat.1345....0G,,H/0524,,16.086811,0.0093679335,16.086811,0.0093679335,,,,,2013-06-18 1:54:58,
+,,,H/0529,,16.297775,0.010303602,16.297775,0.010303602,,,,,2013-06-18 2:00:58,
+AX_J1538.3-5541,see source notes with previous entry,,H/0534,,,,,,,,,,2013-06-18 2:11:13,
+,,,H/0539,,,,,,,,,,2013-06-18 2:13:31,
+,,,Ks/0544,Iris: distortion maybe failed,,,,,,,,,2013-06-18 2:20:26,
+,,,Ks/0549,,,,,,,,,,2013-06-18 2:22:36,
+AX_J1620.1-5002,see source notes with previous entry,,Ks/0554,,,,,,,,,,2013-06-18 2:35:19,
+,,,Ks/0559,,,,,,,,,,2013-06-18 2:36:34,
+,,,H/0564,,,,,,,,,,2013-06-18 2:42:47,
+,,,H/0569,,,,,,,,,,2013-06-18 2:43:57,
+Galactic_center,don't bother with this data (it's a mess),,H/0574,,,,,,,,,,2013-06-18 2:54:30,
+,,,H/0579,,,,,,,,,,2013-06-18 2:57:03,
+,,,J/0584,,,,,,,,,,2013-06-18 3:09:29,
+,,,J/0589,,,,,,,,,,2013-06-18 3:14:03,
+,,,Ks/0594,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2013-06-18 3:26:22,
+,,,Ks/0599,Fsub error on Taurus and u018918,,,,,,,,,2013-06-18 3:28:01,
+SAX_J1712.6-3739,S1: 258.15318 -37.64501 (0.25 arcsec),,J/0619,No TARGETS on u018918 (unknown reason) & Upper limit suggests a too high magnitude compared to obs 0624?,S1: ; S2:,S1: ; S2:,S1: >21.433045 ; S2: 17.761600,S1: 1.9543657 ; S2: 0.0465741,,0.4,,,2013-06-18 3:56:09,no radio counterpart
+,S2: 258.15376 -37.64465 (0.25 arcsec),,J/0624,Stuck on Taurus and u018918,,,,,,,,,2013-06-18 3:58:49,
+,https://ui.adsabs.harvard.edu/abs/2009MNRAS.397L...6W,,H/0629,"Upper limit is wrong and suggests a too high magnitude compared to obs 0634: S1 is undetected due to high noise level in this observation (low exposure time). Therefore its brightness in this observation is very uncertain. The same holds for the upper limit, which hence is not a good measure --> Proof: in observation 0634 this upper limit star has a magnitude of 19.601227 +/- 0.40249544, which is comparable to the magnitude of S1 in observation 0634. So upper limit is wrong.",S1: >20.067677 ; S2: 16.287048,S1: 0.7285611 ; S2: 0.032712325,S1: >20.067677 ; S2: 16.287048,S1: 0.7285611 ; S2: 0.032712325,,0.4,,,2013-06-18 4:03:59,
+,,,H/0634,,S1: 19.355554 ; S2: 16.387531,S1: 0.179019 ; S2: 0.024250673,S1: 19.355554 ; S2: 16.387531,S1: 0.179019 ; S2: 0.024250673,,0.5,,,2013-06-18 4:05:07,
+,,,Ks/0639,"Upper limit is wrong and suggests a too high magnitude compared to obs 0644: S1 is undetected due to high noise level in this observation (low exposure time). Therefore its brightness in this observation is very uncertain. The same holds for the upper limit, which hence is not a good measure --> Proof: in observation 0644 this upper limit star has a magnitude of 18.469637 +/- 0.23433499, which is comparable to the magnitude of S1 in observation 0644. So upper limit is wrong.",S1: >19.390749 ; S2: 15.863514,S1: 0.44778687 ; S2: 0.0327255,S1: >19.390749 ; S2: 15.863514,S1: 0.44778687 ; S2: 0.0327255,,0.5,,,2013-06-18 4:11:16,
+,,,Ks/0644,,S1: 18.301600 ; S2: 15.877506,S1: 0.15447854 ; S2: 0.021557437,S1: 18.301600 ; S2: 15.877506,S1: 0.15447854 ; S2: 0.021557437,,0.4,,,2013-06-18 4:12:29,
+RXS_J170854.4-321857,"17 08 54.269 -32 19 57.13 (0.6"", chandra) https://ui.adsabs.harvard.edu/abs/2005A&A...440..287I",,Ks/0649,,,,,,,,,,2013-06-18 4:21:05,"very faint, persistent NS system; distance from bursts"
+,17 08 52.5 -32 19 26 https://ui.adsabs.harvard.edu/abs/2005A&A...440..287I,,Ks/0654,No image and star catalog on u018918 (unknown reason),,,,,,,,,2013-06-18 4:22:25,no optical/nIR/radio counterpart as far as I know
+,see paper above for the position,,H/0659,,,,,,,,,,2013-06-18 4:28:18,
+,,,H/0664,,,,,,,,,,2013-06-18 4:30:59,
+,,,J/0669,,,,,,,,,,2013-06-18 4:36:09,
+,,,J/0674,,,,,,,,,,2013-06-18 4:37:41,
+MXB_1659-28,17 02 06.42 29 56 44.33 (in our images: 17 02 6.45 -29 56 45.10),,H/0679,Iris: source too faint to be detected,17.671236,0.072094336,17.671236,0.072094336,,,,,2013-06-18 4:45:19,this is a NS transient that was in quiescence during our observations
+,https://ui.adsabs.harvard.edu/abs/1998ApJ...496L..21W/abstract,,H/0684,,17.530165,0.017765397,17.530165,0.017765397,,,,,2013-06-18 4:49:39,"its nIR counterpart is known (I think), but we're interested in looking for variability (from an accretion disk building up)"
+,see this paper for the optical quiescent counterpart (position/finding chart),,Ks/0689,Iris: source too faint to be detected,17.35664,0.08287905,17.35664,0.08287905,,,,,2013-06-18 5:14:29,
+,,,Ks/0694,,17.434557,0.026678363,17.434557,0.026678363,,,,,2013-06-18 5:16:05,
+XTE_J1719-291,17 19 17.18 -29 04 10.0 (0.2 arcsec) https://ui.adsabs.harvard.edu/abs/2011MNRAS.417..659A/abstract,,Ks/0699,No star catalog on u018918 (unknown reason) & Source too faint to be detectable,,,>21.600304,8.206167,,,,,2013-06-18 5:37:49,this is a very-faint transient (suspected NS) that was in quiescence during our observations
+,17 19 16.97 -29 04 10.35 (3.8 arcsec) https://ui.adsabs.harvard.edu/abs/2008ATel.1451....1D,,Ks/0704,Source too faint to be detectable & Small astrometric offset,>21.722277,4.590498,>21.722277,4.590498,,,,,2013-06-18 5:39:16,no (quiescent) nIR counterpart is known as far as I know
+,17 19 17.18 -29 04 9.98 (0.3 arcsec) https://ui.adsabs.harvard.edu/abs/2008ATel.1577....1G,,H/0709,Source too faint to be detectable & Small astrometric offset,>21.690287,5.682919,>21.690287,5.682919,,,,,2013-06-18 5:59:40,no radio observations
+,,,H/0714,Source too faint to be detectable & Small astrometric offset,>22.938038,8.843984,>22.938038,8.843984,,,,,2013-06-18 6:01:45,
+SAX_J1806.5-2215,18 06 32.18 -22 14 17.36 https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.2508S/abstract,,H/0719,Source too faint to be detectable & Syst. magnitude offset on Taurus and u018918,,,,,,,,,2013-06-18 6:26:04,very faint source that exhibits years-long outbursts; I don't know if it was in outburst or quiescence during ours
+,18 06 32.177 -22 14 17.20 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2011ATel.3218....1C,,H/0724,Elongated sources on u018918 & Syst. magnitude offset on Taurus and u018918,,,,,,,,,2013-06-18 6:27:27,"very crowded field, may not be able to identify a unique counterpart"
+,18 06 32.19 -22 14 16.5 (2.2 arcsec) https://ui.adsabs.harvard.edu/abs/2011ATel.3219....1E,,Ks/0729,,17.85493,0.1640725,17.85493,0.1640725,,,,,2013-06-18 6:48:45,compare with previous nIR studies
+,"18 06 32.55, -22 14 15.6 (2.0 arcsec) https://ui.adsabs.harvard.edu/abs/2011ATel.3202....1D",,Ks/0734,Syst. magnitude offset on Taurus (large) and u018918 (huge),,,,,,,,,2013-06-18 6:50:02,
+SLX_1735-269,17 38 17.12 -26 59 38.6 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2003ApJ...596.1220W/abstract,,Ks/0739,CAUTION: second source nearby XRB position,16.084038,0.0751064,16.084038,0.0751064,,,,,2013-06-18 7:11:51,faint persistent NS (D from bursts?)
+,,,Ks/0744,No data for Taurus,,,,,,,,,2013-06-18 7:13:06,"very crowded field, might be hard to find unique counterpart"
+,see this paper for Chandra observations,,H/0749,No data for Taurus,,,,,,,,,2013-06-18 7:22:00,no optical/nIR/radio counterpart reported as far as I know
+,,,H/0754,No data for Taurus,,,,,,,,,2013-06-18 7:23:12,
+SLX_1737-282,17 40 42.83 -28 18 8.4 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2007ATel.1189....1T,,H/0759,"No data for Taurus, Iris: source next to very bright star so undetected",,,,,,,,,2013-06-18 7:31:40,"faint persistent NS, D from bursts"
+,,,H/0764,No data for Taurus,,,,,,,,,2013-06-18 7:32:50,"no optical counterpart due to high absorption, no radio counterpart, crowded field?"
+,,,Ks/0769,"No data for Taurus, Iris: source next to very bright star so undetected",,,,,,,,,2013-06-18 7:38:45,
+,,,Ks/0774,No data for Taurus,,,,,,,,,2013-06-18 7:39:53,
+2E_17467-3225,17 50 3.95 -32 25 50.1 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2003ApJ...596.1220W,,Ks/0779,"Correct counterpart? Very faint counterparts in uncalibrated error circle, but brighter source in calibrated error circle ",16.75866?,0.109421596?,16.75866?,0.109421596?,,,,,2013-06-18 7:47:01,faint persistent NS (D from bursts?)
+,17 50 3.90 -32 25 50.4 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2003ApJ...596.1220W,,Ks/0784,"Correct counterpart? Very faint counterparts in uncalibrated error circle, but brighter source in calibrated error circle",17.113762?,0.09440003?,17.113762?,0.09440003?,,,,,2013-06-18 7:48:17,"very crowded field, might be hard to find unique counterpart"
+,,,H/0789,"Sources undetected, but faint counterparts and brighter source visible",,,,,,,,,2013-06-18 7:55:09,no optical/nIR/radio counterpart reported as far as I know
+,,,H/0794,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2013-06-18 7:56:19,
+RXS_J180408.9-342058,"18 04 08.3745 -34 20 51.19 (0.006, 0.02 arcsec) https://ui.adsabs.harvard.edu/abs/2015ATel.7255....1D",,H/0799,Source too faint to be detectable,>20.465193,1.3065931,>20.465193,1.3065931,,,,,2013-06-18 8:05:27,transient NS system (D from bursts) that was in quiescence during our observations
+,18 04 08.371 -34 20 51.38 (0.5 arcsec) https://ui.adsabs.harvard.edu/abs/2015ATel.7100....1B,,H/0804,,19.503082,0.20254214,19.503082,0.20254214,,,,,2013-06-18 8:06:45,might have a very dim companion star
+,18 04 08.40 -34 20 51.6 (1.8 arcsec) https://ui.adsabs.harvard.edu/abs/2015ATel.7039....1K,,Ks/0809,Source too faint to be detectable,>19.570482,0.94638395,>19.570482,0.94638395,,0.6,,,2013-06-18 8:27:26,see here for outburst optical/nIR data: https://ui.adsabs.harvard.edu/abs/2016A%26A...587A.102B/abstract
+,,,Ks/0814,,,0.18475345,18.62325,0.18475345,,,,,2013-06-18 8:28:36,
+Swift_J1910.2-0546,the radio position (during outburst) is 19 10 22.80 -05 47 56.18,,Ks/0819,,14.774146,0.011517805,14.774146,0.011517805,,,,,2013-06-18 8:51:26,transient BH candidate that was in quiescence during our observations
+,Finder chart: https://arxiv.org/pdf/1810.06070.pdf,,Ks/0824,,14.735732,0.006016995,14.735732,0.006016995,,,,,2013-06-18 8:52:36,"the radio position has not been reported (only the radio flux), but Jakob extracted it once"
+Swift_J1922.7-1716,19 22 37.00 -17 17 1.1 (0.61 arcsec) https://ui.adsabs.harvard.edu/abs/2011GCN.12522....1B,,H/0844,Source too faint to be detectable,>20.107770,0.2429988,>20.107770,0.2429988,,,,,2013-06-18 9:25:13,
+,19 22 37.0 -17 17 2.6 (3.2 arcsec) https://ui.adsabs.harvard.edu/abs/2006A&A...456L...5F,,H/0849,"NOTE: a dim source inside large error circle, but not in the small one",>22.698564,1.052962,>22.698564,1.052962,,,,,2013-06-18 9:26:24,
+,,,,,,,,,,,,,,
+Sources observed in night of 2013-06-18,,,,,,,,,,,,,,
+XMMi_J115004.8-22442,"there is a typo in the source name, it should be the transient from this paper:",,J/1253,No mef.cat files,,,,,,,,,2013-06-18 22:58:02,
+,https://iopscience.iop.org/article/10.1088/0004-637X/734/2/86/pdf,,,,,,,,,,,,,
+Sources observed in night of 2014-05-08,,,,,,,,,,,,,,
+XMMSL1_J171900.4-353217,17 19 00.60 -35 32 19.4 (2.2 arcsec) https://ui.adsabs.harvard.edu/abs/2010ATel.2627....1R,,Ks/3329,At least 8 possible counterparts,,,,,,0.6,0.11,,2014-05-09 4:36:27,very-faint transient of unknown nature that was in quiescence during our observations
+,,,Ks/3338,,,,,,,,,,2014-05-09 4:38:21,no optical/nIR/radio information
+,,,Ks/3347,,,,,,,,,,2014-05-09 4:40:58,position only known from Swift/XRT and no D known
+,,,Ks/3356,No TARGETS on Taurus and u018918 (unknown reason),,,,,,,,,2014-05-09 5:39:31,
+,,,Ks/3357,,,,,,,,,,2014-05-09 5:40:25,
+XTE_J1728-295,radio counterpart: https://ui.adsabs.harvard.edu/abs/2019ATel12669....1V/abstract,,H/3366,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2014-05-09 6:41:37,very-faint transient that might contain a BH and was in quiescence during our observations
+,optical counterpart (outburst): https://ui.adsabs.harvard.edu/abs/2010ATel.2997....1R/abstract,,H/3375,No image and star catalog on both Taurus & no TARGETS on u018918 (unknown reasons),,,,,,,,,2014-05-09 6:43:53,
+,,,H/3379,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2014-05-09 7:18:24,
+Sgr_A*,don't bother with this data (it's a mess),,H/3388,,,,,,,,,,2014-05-09 8:02:00,
+,,,H/3397,,,,,,,,,,2014-05-09 8:05:02,
+,,,Ks/3406,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2014-05-09 8:23:13,
+,,,Ks/3415,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2014-05-09 8:36:16,
+SAX_J1806.5-2215,see previous notes on this source,,Ks/3424,No image and star catalog on u018918 (unknown reason) & Syst. magnitude offset on Taurus and u018918,,,,,,,,,2014-05-09 8:45:30,
+,,,Ks/3433,Different images & Syst. magnitude offset on both Taurus and u018918,,,,,,,,,2014-05-09 8:47:41,
+Swift_J1910.2-0546,the radio position (during outburst) is 19 10 22.80 -05 47 56.18,,H/3442,Different images & Astrometric offset on both Taurus and u018918,17.67534,0.018099366,17.67752,0.017991142,,,,,2014-05-09 9:45:33,
+,Finder chart: https://arxiv.org/pdf/1810.06070.pdf,,H/3451,Astrometric offset on both Taurus and u018918,17.60729,0.03690191,17.60729,0.03690191,,,,,2014-05-09 9:59:46,
+,,,J/3460,,18.389482,0.036114354,18.389482,0.036114354,,,,,2014-05-09 10:02:16,
+,,,J/3469,,18.274178,0.02028138,18.274178,0.02028138,,,,,2014-05-09 10:04:15,
+,,,,,,,,,,,,,,
+Sources observed in night of 2014-05-09,,,,,,,,,,,,,,
+G309,don't bother with this for now (science case was different),,J/3629,No star catalog on Taurus and u018918 (unknown reason),,,,,,,,,2014-05-09 23:10:51,
+,,,J/3631,,,,,,,,,,2014-05-09 23:28:43,
+,,,J/3633,,,,,,,,,,2014-05-09 23:35:16,
+,,,J/3639,,,,,,,,,,2014-05-09 23:47:59,
+,,,J/3648,,,,,,,,,,2014-05-09 23:51:38,
+,,,H/3657,,,,,,,,,,2014-05-10 0:02:50,
+,,,Ks/3666,,,,,,,,,,2014-05-10 0:17:15,
+MAXI_J1421-613,14 21 37.2 -61 36 25.4 (0.3 arcsec) https://ui.adsabs.harvard.edu/abs/2014ATel.5802....1C,,Ks/3675,Different images & Source too faint to be detectable,>23.046224,10.0089445,>22.222450,3.8731742,,0.3,0.12,,2014-05-10 0:38:05,neutron star transient that was in quiescence during our observations (D from bursts)
+(Data calibrated),14 21 37.21 -61 36 25.2 (1.5 arcsec) https://ui.adsabs.harvard.edu/abs/2014ATel.5780....1K  and 14 21 37.26 -61 36 25.41 (0.93 arcsec) https://ui.adsabs.harvard.edu/abs/2014ATel.5759....1C,,H/3684,Different images & Source too faint to be detectable,>22.456696,1.6071875,>22.072113,1.7496138,,0.2,0.11,,2014-05-10 1:06:12,
+XTE_J1637-498,16 37 02.67 -49 51 40.6 (1.8 arcsec),,H/3693,Probably no mef.cat files,,,,,,,,,2014-05-10 1:29:25,faint transient of unknown nature that was in quiescence during our observations
+(Data calibrated),https://ui.adsabs.harvard.edu/abs/2008ATel.1704....1S,,H/3694,"Different images & Multiple possible counterparts (but according the paper, the bright source is the XRB)",14.060258,0.0074312347,14.090109,0.0073060105,,0.4,0.21,,2014-05-10 1:29:56,https://ui.adsabs.harvard.edu/abs/2011A%26A...533A...3C Proposed the bright 2MASS source as XRB
+,,,Ks/3703,"Multiple possible counterparts (but according the paper, the bright source is the XRB)",13.686437,0.0061454345,13.686437,0.0061454345,,0.5,0.15,,2014-05-10 2:02:33,
+MXB_1659-28,17 02 06.42 29 56 44.33 (in our images: 17 02 6.45 -29 56 45.10),,Ks/3712,,17.414955,0.04592234,17.414955,0.04592234,,,,,2014-05-10 2:34:44,
+,https://ui.adsabs.harvard.edu/abs/1998ApJ...496L..21W/abstract,,H/3721,,17.463636,0.023188535,17.463636,0.023188535,,,,,2014-05-10 2:59:49,
+IGR_J17091-3624,17 09 07.59 -36 24 25.4 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2012int..workE..91B,,H/3730,Different images,16.580325,0.016173203,16.571319,0.015813038,,0.5,0.09,,2014-05-10 3:18:11,transient BH that was in quiescence during our observations
+(Data calibrated),17 09 07.61 -36 24 25.7 (~0.20 arcsec) https://ui.adsabs.harvard.edu/abs/2011A&A...533L...4R and 17 09 07.62 -36 24 25.35 (~0.20 arcsec) https://ui.adsabs.harvard.edu/abs/2011ATel.3150....1T ,,Ks/3739,Different images,16.251034,0.019851277,16.208692,0.019137869,,0.3,0.1,,2014-05-10 3:36:42,
+9_XMMSL1_J171900.4-353217,see previous notes on this source,,H/3766,multiple possible counterparts,,,,,,,,,2014-05-10 4:22:24,
+IGR_J17494-3030,see previous notes on this source,,H/3775,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2014-05-10 4:53:02,
+XTE_J1728-295,see previous notes on this source,,Ks/3784,too faint,,,,,,,,,2014-05-10 5:19:02,
+,,,,,,,,,,,,,,
+AX_J1818.8-1559,see note column,,Ks/3793,way to many counterparts for this error circle,,,,,,,,,2014-05-10 5:39:43,"only detected during a thermonuclear burst (for D see https://personal.sron.nl/~jeanz/j1708.pdf ) with old instrument, so no good position"
+,"18 18 53.0 -15 59 30 (57.6 arcsec, ASCA) https://simbad.cds.unistra.fr/simbad/sim-ref?bibcode=2001ApJS..134...77S",,,,,,,,,,,,,see this paper for candidate quiescent counterparts from Chandra data: https://ui.adsabs.harvard.edu/abs/2002A%26A...392..931C/abstract
+,,,,,,,,,,,,,,check nIR counterparts of all potential Chandra counterparts
+XTE_J1901+014,see https://ui.adsabs.harvard.edu/abs/2012AstL...38..629K/abstract,,Ks/3802,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2014-05-10 6:33:06,"weird fast faint transient, little known about it (see the paper linked)"
+,"19 01 40.20 +01 26 26.5 (0.64 arcsec, Chandra)",,Ks/3803,Too faint or position incorrect,,,,,,,,,2014-05-10 6:34:18,
+Swift_J1822.3-1606,this is a magnetar; look for a Chandra position,,Ks/3812,"multiple possible counterparts, not included in paper table yet",,,,,,,,,2014-05-10 7:28:15,different science case but would be neat to see an image of this source and if there is a nIR counterpart (not expected)
+,"18 22 18.32 -16 04 27.2 (3.6 arcsec, XRT) https://ui.adsabs.harvard.edu/abs/2011ATel.3489....1P/abstract",,,,,,,,,,,,,
+Sources observed by Rudy and Aastha,,,,,,,,,,,,,,
+47_Tuc,don't bother with this for now (science case was different),,J/3017,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 0:34:05,globular cluster
+,,,J/3018,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 0:35:42,
+,,,J/3019,,,,,,,,,,2018-11-13 0:36:44,
+,,,Ks/3024,,,,,,,,,,2018-11-13 0:45:41,
+,,,BrG/3029,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 0:52:34,
+,,,BrG/3031,,,,,,,,,,2018-11-13 0:57:53,
+,,,BrG/3058,,,,,,,,,,2018-11-13 2:47:17,
+,,,Ks/3063,,,,,,,,,,2018-11-13 3:06:30,
+,,,H/3068,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 3:12:51,
+,,,J/3073,No image and star catalog on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 3:18:16,
+SMC_X-3,don't bother with this for now (science case was different),,J/3036,,,,,,,,,,2018-11-13 1:18:14,HMXB in the SMC
+,,,J/3039,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 1:24:28,
+,,,J/3040,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 1:26:27,
+,,,J/3041,,,,,,,,,,2018-11-13 1:26:49,
+,,,Ks/3046,,,,,,,,,,2018-11-13 1:32:53,
+,,,BrG/3051,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 1:41:20,
+,,,BrG/3052,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 1:43:01,
+,,,BrG/3053,,,,,,,,,,2018-11-13 1:45:14,
+EXO_0748-676,07 48 33.71 -67 45 07.7 (0.2 arcsec),,J/3078,Source undetected & noisy image & source close to noisy center,,,,,,,,,2018-11-13 3:32:43,
+,https://ui.adsabs.harvard.edu/abs/2003AJ....125..984M,,J/3080,,>23.035131,0.5007376,>23.035131,0.5007376,,,,,2018-11-13 3:35:24,
+,,,J/3085,,>22.648458,0.34481898,>22.648458,0.34481898,,,,,2018-11-13 3:39:46,
+,,,H/3090,Upper limit inside noisy area (took the third dimmest star as upper limit),>22.337645,1.1670305,>22.337645,1.1670305,,,,,2018-11-13 3:44:43,
+,,,Ks/3095,,>23.257448,2.2840068,>23.257448,2.2840068,,,,,2018-11-13 3:54:37,
+,,,BrG/3100,"BrG makes comparison with 2MASS incorrect (Ks comes closest) & Many erroneous detections due to gluing noise, so upper limit is unclear",,,,,,,,,2018-11-13 4:08:22,
+NGC_2808,don't bother with this for now (science case was different),,BrG/3105,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 4:28:32,globular cluster
+,,,BrG/3106,,,,,,,,,,2018-11-13 4:28:54,
+,,,Ks/3111,,,,,,,,,,2018-11-13 4:50:47,
+,,,Ks/3116,,,,,,,,,,2018-11-13 4:55:14,
+,,,J/3121,,,,,,,,,,2018-11-13 4:58:13,
+,,,BrG/3148,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 6:32:59,
+,,,BrG/3149,,,,,,,,,,2018-11-13 6:33:19,
+,,,Ks/3154,,,,,,,,,,2018-11-13 6:50:29,
+2S_0918-549,optical counterpart: http://adsabs.harvard.edu/full/1987A%26A...172..167C,,J/3126,,15.759552,0.018297242,,,,,,,2018-11-13 5:05:23,"persistent NS, no nIR counterpart as far as I know"
+,09 20 26.4818170056 -55 12 24.512806404 Simbad,,J/3128,,15.539142,0.006594987,,,,,,,2018-11-13 5:07:59,
+,,,H/3133,,15.088455,0.008751974,,,,,,,2018-11-13 5:13:33,
+,,,Ks/3138,,15.0787,0.010139113,,,,,,,2018-11-13 5:19:44,
+,,,BrG/3143,,,,,,,,,,2018-11-13 5:30:24,
+Vela_X-1,don't bother with this for now (science case was different),,Ks/3159,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 6:58:13,HMXB pulsar
+,,,Ks/3160,,,,,,,,,,2018-11-13 7:01:13,
+,,,J/3165,,,,,,,,,,2018-11-13 7:09:56,
+,,,BrG/3170,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 7:20:16,
+,,,BrG/3171,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 7:20:49,
+,,,BrG/3172,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-11-13 7:21:50,
+,,,BrG/3173,,,,,,,,,,2018-11-13 7:24:25,
+,,,BrG/3178,,,,,,,,,,2018-11-13 7:54:12,
+,,,,,,,,,,,,,,
+"Sources observed by Renee --> vnl heldere persistente bronnen, dus kan hogere nIR magnituden vinden voor deze groep",,,,,,,,,,,,,,can try to get the list files from Juan's old processing: see /scratch/juan/nir/2018/RED and /scratch/juan/nir/2018/RED_2
+4U_1323-619,no optical (or radio) counterpart but likely has a Chandra position,,Ks/1014,"Finding chart looks a bit off, maybe multiple sources",17.209553,0.04689029,,,,,,,2018-06-18 23:16:09,"persistent NS, well studied but no optical counterpart due to high extinction and no nIR counterpart reported"
+,13 26 37.03    -62 08 08.88   (0.72 arcsec),,Ks/1019,No TARGETS on both Taurus and u018918 (unknown reason) IRIS: some mef.cat files do not appear to exist,,,,,,,,,2018-06-18 23:24:47,(no radio)
+,https://www.aanda.org/articles/aa/full_html/2016/05/aa27512-15/aa27512-15.html,,H/1020,"Finding chart looks a bit off, maybe multiple sources",18.078783,0.04672364,,,,,,,2018-06-18 23:28:51,
+,,,J/1025,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-06-18 23:40:22,
+AX_J1538.3-5541,see notes:  ,,Ks/1026,Source coordinate falls outside fits image,,,,,,,,,2018-06-18 23:47:54,"this is a repeated observation of this source, but I think it was in quiescence now and in outburst during the previous ones"
+,15 38 13.68 -55 42 13.1 (1.9 arcsec),,H/1031,Source coordinate falls outside fits image,,,,,,,,,2018-06-18 23:57:00,thus compare the images and see if there is a potential counterpart that is changing in brightness
+4U_1626-67,look for a paper on the optical counterpart,,Ks/1036,,18.491129,0.061269343,,,,,,,2018-06-19 0:11:07,"persistent NS pulsar, well studied but no nIR counterpart reported "
+,could not find position from optical so used simbad (XRT),,H/1041,,18.58377,0.035732053,,,,,,,2018-06-19 0:19:55,(not detected in radio)
+,,,J/1046,,18.773262,0.028630024,,,,,,,2018-06-19 0:31:24,
+XTE_J1710-281,see this paper: https://arxiv.org/abs/1007.2495,,Ks/1051,2-3 possible counterparts (magnitude here is of s2 in ks band),17.602745,0.041416436,,,,,,,2018-06-19 0:43:37,persistent NS system
+,17 10 13. -28 07 51. (1 arcsec),,H/1056,Iris: need psf? ,17.393055,0.024948055,,,,,,,2018-06-19 0:52:16,
+,,,J/1061,Iris: need psf? ,17.989231,0.02450397,,,,,,,2018-06-19 1:03:27,
+4U_1708-40,17 12 23.83 -40 50 34.0 (0.6 arcsec) https://ui.adsabs.harvard.edu/abs/2003ApJ...596.1220W,,Ks/1066,,16.466145,0.033352472,,,,,,,2018-06-19 1:15:15,persistent NS system
+,,,H/1071,No image and star catalog on u018918 (unknown reason),,,,,,,,,2018-06-19 1:23:53,
+,,,J/1076,,18.221867,0.04937905,,,,,,,2018-06-19 1:35:07,
+UW_Crb,should have a position from optical,,Ks/1081,,19.13562,0.12863089,,,,,,,2018-06-19 1:46:57,"peristent NS system, well studied by no nIR counterpart reported"
+,not sure about error circle,,H/1086,,19.830853,0.09587682,,,,,,,2018-06-19 1:55:45,(no radio observations)
+,16 05 45.8746697208 +25 51 45.246497976 (Simbad),,J/1091,,19.893389,0.062430993,,,,,,,2018-06-19 2:06:55,
+4U_1702-429,https://ui.adsabs.harvard.edu/abs/2005ApJ...621..393W/abstract -> observed in infrared before,,Ks/1096,Detected part actually looks like 3 sources,16.01597,0.024733461,,,,,,,2018-06-19 2:19:38,"peristent NS system, well studied by no nIR counterpart reported"
+,17 06 15.314 -43 02 08.69 (0.6 arcsec) (xray),,H/1101,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-06-19 2:28:30,(no radio observations)
+,,,H/1102,need psf,16.505865,0.022514546,,,,,,,2018-06-19 2:31:44,
+,,,J/1107,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-06-19 2:42:57,
+,,,J/1108,need psf,18.055578,0.031128634,,,,,,,2018-06-19 2:44:35,
+1E_1743.1-2843,Chandra position: https://ui.adsabs.harvard.edu/abs/2006A%26A...456.1105D/abstract,,Ks/1113,crowded field -> multiple counterparts,,,,,,,,,2018-06-19 2:56:09,"faint persistent source, no optical/nIR/radio info I think"
+,17 46 21.094 -28 43 42.30 (1.1 arcsec) (xray) (https://www.aanda.org/articles/aa/pdf/2007/26/aa7303-07.pdf) ,,H/1118,,,,,,,,,,2018-06-19 3:04:52,very crowded field?
+,Chandra pos: and  XMMN pos,,J/1123,,,,,,,,,,2018-06-19 3:16:04,
+GX_9+9,17 31 44.200 -16 57 42.00 (<1 arcsec) (optical) https://ui.adsabs.harvard.edu/abs/2007yCat..34690807L/abstract,,Ks/1128,2-3 possible counterparts,,,,,,,,,2018-06-19 3:28:12,bright persistent NS
+,17 31 44.17 -16 57 40.9 (infrared)  https://ui.adsabs.harvard.edu/abs/2003yCat.2246....0C,,H/1133,,,,,,,,,,2018-06-19 3:36:56,
+,should be an optical position (no radio),,J/1138,,,,,,,,,,2018-06-19 3:48:13,
+4U_1735-44,should be an optical position ,,Ks/1143,,16.201534,0.013292001,,,,,,,2018-06-19 4:01:00,bright peristent NS (D from bursts)
+,17 38 58.300 -44 27 00.00  (<1 arcsec) (optical)       https://www.aanda.org/articles/aa/pdf/2007/26/aa7303-07.pdf,,H/1148,buffer too small error,,,,,,,,,2018-06-19 4:09:39,
+,"17 38 58.2384053021 -44 27 00.699118812 (e_RA = 0.0941 mas, e_DEC = 0.0793 mas) (gaia dr3, optical)",,J/1153,,,,,,,,,,2018-06-19 4:21:00,
+RXS_J180408.9-342058,"18 04 08.3745 -34 20 51.19 (0.006, 0.02 arcsec) https://ui.adsabs.harvard.edu/abs/2015ATel.7255....1D",,Ks/1159,No TARGETS on both Taurus and u018918 (unknown reason),,,,,,,,,2018-06-19 4:33:53,
+,18 04 08.371 -34 20 51.38 (0.5 arcsec) https://ui.adsabs.harvard.edu/abs/2015ATel.7100....1B,,Ks/1160,,19.378094,0.21016692,19.378094,0.21016692,,,,,2018-06-19 4:45:59,
+,18 04 08.40 -34 20 51.6 (1.8 arcsec) https://ui.adsabs.harvard.edu/abs/2015ATel.7039....1K,,H/1165,Source too faint to be detectable,>22.08055,2.7465065,>22.08055,2.7465065,,,,,2018-06-19 5:46:16,
+4U_1822-00,"optical counterpart: https://ui.adsabs.harvard.edu/abs/1985SSRv...40..443C/abstract shows no position but a source they name states pos in B1950, converting this gives 18h 25m 21.8s / 0° 4m 9.1s, <1arcsec) (source=https://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?bibcode=1983ARA%26A..21...13B&db_key=AST&page_ind=24&plate_select=NO&data_type=GIF&type=SCREEN_GIF&classic=YES)",,Ks/1170,,18.173767,0.045503363,,,,,,,2018-06-19 7:05:53,persistent NS
+,18 25 22.020 -00 00 43.00 (0.6 arcsec) (xray)  https://www.aanda.org/articles/aa/abs/2007/26/aa7303-07/aa7303-07.html,,H/1175,,18.651814,0.03230782,,,,,,,2018-06-19 7:14:31,
+, ,,J/1180,,19.410662,0.037624422,,,,,,,2018-06-19 7:25:35,
+Ser_X-1,see this paper for the optical counterpart,,Ks/1185,need psf,15.984529,0.0133708,,,,,,,2018-06-19 7:38:00,peristent NS (D from bursts)
+,https://ui.adsabs.harvard.edu/abs/1997ApJ...490..401W/abstract -> could not find position,,H/1190,,16.230808,0.00908019,,,,,,,2018-06-19 7:46:48,
+,18 39 57.557 +5 02 9.5 (0.15 arcsec) (radio) https://academic.oup.com/mnras/article/351/1/186/1003291,,J/1195,,16.720646,0.009324123,,,,,,,2018-06-19 7:57:58,
+GS_1826-24,probably has an optical counterpart (otherwise Chandra),,Ks/1200,"multiple counterparts, one of them is maybe 3 sources actually",,,,,,,,,2018-06-19 8:09:08,persistent NS (D from bursts)
+,18 29 28.200        -23 47 49.12 (2 arcsec) (optical) (https://ui.adsabs.harvard.edu/abs/2007A%26A...469..807L/abstract),,H/1205,,,,,,,,,,2018-06-19 8:17:44,
+,,,J/1210,,,,,,,,,,2018-06-19 8:28:59,
+4U_1915-05,probably has an optical counterpart (otherwise Chandra) -> couldnot find optical,,Ks/1215,Ks band finding chart has artifacts and magnitude is 1.5 lower than other bands,17.925776,0.04850748,,,,,,,2018-06-19 8:40:18,persistent NS
+,19 18 47.870 -05 14 17.09 (0.6 arcsec) (xray) (https://ui.adsabs.harvard.edu/abs/2007A%26A...469..807L/abstract),,H/1220,,19.485819,0.07621386,,,,,,,2018-06-19 8:49:02,
+,,,J/1225,,19.588903,0.05935695,,,,,,,2018-06-19 9:00:05,
