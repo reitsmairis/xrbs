@@ -1,0 +1,45 @@
+Source,Band,Date,Magnitude ,Magnitude_err,Magnitude_upplim,Corrected_nH,Literature NIR,Telescope,nH,nH_lit,d,d_errup,d_errlow,d_literature,X-ray flux,X-ray_low,X-ray_high,X-ray luminosity,Literature X-ray,CO,State,Transient/persistent,CO_lit
+4U_1556-60,J,13-5-2011,17.83,0.06,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+4U_1556-60,H,13-5-2011,17.52,0.08,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+4U_1556-60,K,13-5-2011,17.4,0.14,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+4U_1708-40,J,13-5-2011,18.84,0.18,,TRUE,Revnivtsev+2013,IRSF,1.01E+22,,12.5,2.5,2.5,Revnivtsev+2013,8.70E-10,,,,iopscience,NS,,,Revnivtsev+2013
+4U_1708-40,H,13-5-2011,17.29,0.09,,TRUE,Revnivtsev+2013,IRSF,1.01E+22,,12.5,2.5,2.5,Revnivtsev+2013,8.70E-10,,,,iopscience,NS,,,Revnivtsev+2013
+4U_1708-40,K,13-5-2011,16.67,0.09,,TRUE,Revnivtsev+2013,IRSF,1.01E+22,,12.5,2.5,2.5,Revnivtsev+2013,8.70E-10,,,,iopscience,NS,,,Revnivtsev+2013
+AXJ_165901-4208,J,13-5-2011,18.33,0.06,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+AXJ_165901-4208,H,13-5-2011,16.05,0.03,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+AXJ_165901-4208,K,13-5-2011,14.91,0.04,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+IGR_J16287-5021,J,13-5-2011,16.84,0.04,,TRUE,Revnivtsev+2013,IRSF,1.21E+22,,3,1,1,Revnivtsev+2013,7.00E-12,,,,Tomsick+2008,unknown,hard,,Tomsick+2008
+IGR_J16287-5021,H,13-5-2011,16.25,0.1,,TRUE,Revnivtsev+2013,IRSF,1.21E+22,,3,1,1,Revnivtsev+2013,7.00E-12,,,,Tomsick+2008,unknown,hard,,Tomsick+2008
+IGR_J16287-5021,K,13-5-2011,15.94,0.09,,TRUE,Revnivtsev+2013,IRSF,1.21E+22,,3,1,1,Revnivtsev+2013,7.00E-12,,,,Tomsick+2008,unknown,hard,,Tomsick+2008
+IGR_J17350-2045,J,13-5-2011,15.35,0.06,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+IGR_J17350-2045,H,13-5-2011,14.4,0.1,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+IGR_J17350-2045,K,13-5-2011,13.8,0.1,,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+AX_J171922-3703,J,13-5-2011,,,19.5,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+AX_J171922-3703,H,13-5-2011,,,18.2,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+AX_J171922-3703,K,13-5-2011,,,17.7,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+SAX_J1712.6-3739,J,13-5-2011,,,20.6,TRUE,Revnivtsev+2013,IRSF,,,7,,,Cocchi+2001,2.50E-09,1.00E-09,1.00E-09,,Thesis Bilal,NS,hard,persistent,Revnivtsev+2013
+SAX_J1712.6-3739,H,13-5-2011,,,20.2,TRUE,Revnivtsev+2013,IRSF,,,7,,,Cocchi+2001,2.50E-09,1.00E-09,1.00E-09,,Thesis Bilal,NS,hard,persistent,Revnivtsev+2013
+SAX_J1712.6-3739,K,13-5-2011,,,19.5,TRUE,Revnivtsev+2013,IRSF,,,7,,,Cocchi+2001,2.50E-09,1.00E-09,1.00E-09,,Thesis Bilal,NS,hard,persistent,Revnivtsev+2013
+4U_1705-32,J,13-5-2011,,,20.8,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+4U_1705-32,H,13-5-2011,,,20.6,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+4U_1705-32,K,13-5-2011,,,20.1,TRUE,Revnivtsev+2013,IRSF,,,,,,,,,,,,,,,
+XTE_J1637−498,J,20-9-2008,14.8,0.09,,FALSE,Curran+2011,ISAAC,,,8,,,,,,,,,unknown,quiescence,transient,Curran+2011
+XTE_J1637−498,H,20-9-2008,14.13,0.1,,FALSE,Curran+2011,ISAAC,,,8,,,,,,,,,unknown,quiescence,transient,Curran+2011
+XTE_J1637−498,Ks,20-9-2008,13.55,0.07,,FALSE,Curran+2011,ISAAC,,,8,,,,,,,,,unknown,quiescence,transient,Curran+2011
+IGR_J17379−3747,J,2-10-2008,18.3,0.1,,FALSE,Curran+2011,ISAAC,,,,,,,,,,,,NS,,,Curran+2011
+IGR_J17379−3747,H,2-10-2008,,,18,FALSE,Curran+2011,ISAAC,,,,,,,,,,,,NS,,,Curran+2011
+IGR_J17379−3747,Ks,2-10-2008,,,18,FALSE,Curran+2011,ISAAC,,,,,,,,,,,,NS,,,Curran+2011
+IGR_J17585−3057,Ks,29-3-2010,14.18,0.05,,FALSE,Curran+2011,ISAAC,,,,,,,,,,,,unknown?,,,Curran+2011
+GX_9+1,Ks,28-3-2010,15.35,0.04,,FALSE,Curran+2011,ISAAC,,,,,,,,,,,,NS,,,Curran+2011
+SAX_J1747.0−2853,J,18-7-2006,,,20.2,FALSE,Zolotukhin+2015,UKIRT,1.70E+21,Heasarc,7.5,1.3,1.3,Zolotukhin+2015,,,,2.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+SAX_J1747.0−2853,H,18-7-2006,,,19,FALSE,Zolotukhin+2015,UKIRT,1.70E+21,Heasarc,7.5,1.3,1.3,Zolotukhin+2015,,,,2.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+SAX_J1747.0−2853,K,18-7-2006,,,17.8,FALSE,Zolotukhin+2015,UKIRT,1.70E+21,Heasarc,7.5,1.3,1.3,Zolotukhin+2015,,,,2.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+IGR_J17464−2811,J,18-7-2006,,,20,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+IGR_J17464−2811,H,18-7-2006,,,18.7,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+IGR_J17464−2811,K,18-7-2006,,,17.5,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+AX_J1754.2−2754,J,3-5-2007,,,18.7,FALSE,Zolotukhin+2015,UKIRT,7.68E+21,Heasarc,8.5,1.5,1.5,Zolotukhin+2015,,,,1.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+AX_J1754.2−2754,H,3-5-2007,,,18.7,FALSE,Zolotukhin+2015,UKIRT,7.68E+21,Heasarc,8.5,1.5,1.5,Zolotukhin+2015,,,,1.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+AX_J1754.2−2754,K,3-5-2007,,,18,FALSE,Zolotukhin+2015,UKIRT,7.68E+21,Heasarc,8.5,1.5,1.5,Zolotukhin+2015,,,,1.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+Ser_X−1,J,12-5-2010,17.34,0.1,,FALSE,Zolotukhin+2015,UKIRT,4.40E+21,Heasarc,10,1.1,1.1,Galloway+2008,1.03E-08,5.00E-11,5.00E-11,,Build swift XRT products,NS,soft,persistent,Zolotukhin+2015
+Ser_X−1,H,12-5-2010,17.27,0.06,,FALSE,Zolotukhin+2015,UKIRT,4.40E+21,Heasarc,10,1.1,1.1,Galloway+2008,1.03E-08,5.00E-11,5.00E-11,,Build swift XRT products,NS,soft,persistent,Zolotukhin+2015
+Ser_X−1,K,12-5-2010,17.14,0.09,,FALSE,Zolotukhin+2015,UKIRT,4.40E+21,Heasarc,10,1.1,1.1,Galloway+2008,1.03E-08,5.00E-11,5.00E-11,,Build swift XRT products,NS,soft,persistent,Zolotukhin+2015
