@@ -34,9 +34,9 @@ GX_9+1,Ks,28-3-2010,15.35,0.04,,FALSE,Curran+2011,ISAAC,,,,,,,,,,,,,NS,,,Curran+
 SAX_J1747.0−2853,J,18-7-2006,,,20.2,FALSE,Zolotukhin+2015,UKIRT,8.80E+21,1.70E+21,Werner+2004,7.5,1.3,1.3,Zolotukhin+2015,,,,2.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
 SAX_J1747.0−2853,H,18-7-2006,,,19,FALSE,Zolotukhin+2015,UKIRT,8.80E+21,1.70E+21,Werner+2004,7.5,1.3,1.3,Zolotukhin+2015,,,,2.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
 SAX_J1747.0−2853,K,18-7-2006,,,17.8,FALSE,Zolotukhin+2015,UKIRT,8.80E+21,1.70E+21,Werner+2004,7.5,1.3,1.3,Zolotukhin+2015,,,,2.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
-IGR_J17464−2811,J,18-7-2006,,,20,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,1.45E+22,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
-IGR_J17464−2811,H,18-7-2006,,,18.7,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,1.45E+22,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
-IGR_J17464−2811,K,18-7-2006,,,17.5,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,1.45E+22,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+IGR_J17464−2811,J,18-7-2006,,,20,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+IGR_J17464−2811,H,18-7-2006,,,18.7,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
+IGR_J17464−2811,K,18-7-2006,,,17.5,FALSE,Zolotukhin+2015,UKIRT,7.50E+22,,Zolotukhin+2015,3,,,Zolotukhin+2015,,,,1.00E+34,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
 AX_J1754.2−2754,J,3-5-2007,,,18.7,FALSE,Zolotukhin+2015,UKIRT,2.10E+22,7.68E+21,Padilla+2013,8.5,1.5,1.5,Zolotukhin+2015,,,,1.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
 AX_J1754.2−2754,H,3-5-2007,,,18.7,FALSE,Zolotukhin+2015,UKIRT,2.10E+22,7.68E+21,Padilla+2013,8.5,1.5,1.5,Zolotukhin+2015,,,,1.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
 AX_J1754.2−2754,K,3-5-2007,,,18,FALSE,Zolotukhin+2015,UKIRT,2.10E+22,7.68E+21,Padilla+2013,8.5,1.5,1.5,Zolotukhin+2015,,,,1.00E+35,Zolotukhin+2015,NS,,persistent,Zolotukhin+2015
