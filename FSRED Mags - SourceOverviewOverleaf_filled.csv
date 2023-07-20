@@ -1,0 +1,50 @@
+,Source,RA,DEC,poserror,poslit,NS/BH,Transient/persistent,Hard/soft state ,State_source,nH,Distance,D_errup,D_errlow,Distance_source,Note
+0,1E_1743.1-2843,,,,,NS,persistent,hard ,,,,,,,Multiple counterparts
+1,2E_17467-3225,17 50 3.95,-32 25 50.1,0.6,"Wilson+2003, Chandra",NS,persistent,hard,,5.01e+21,8.0,,,,
+2,2S_0918-549,09 20 26.4818170056,-55 12 24.512806404,0.1,"Gaia Collaboration 2020, Gaia",NS,persistent,hard,Muñoz-Daria+2014,5.29e+21,5.4,,,in 't Zand+2005,
+3,4U_1323-619,13 26 37.03,-62 08 08.88,0.6,"Gambino+2015, Chandra",NS,persistent ,hard,Muñoz-Daria+2014,1.17e+22,4.2,0.8,0.8,Gambino+2015,Source blended
+4,4U_1626-67,16 32 16.7,-67 27 40.3,1.0,"Watson+2008, XMMN",NS,persistent,unknown,,9.6e+20,9.0,4.0,4.0,Chakrabarty 1998,
+5,4U_1702-429,17 06 15.314,-43 02 08.69,0.6,"Wachter+2005, Chandra",NS,persistent,hard,"BAT/MAXI lc, Muñoz-Daria+2014",9.95e+21,5.46,0.19,0.19,Galloway+2008,Source blended
+6,4U_1708-40,17 12 23.83,-40 50 34.0,0.6,"Wilson+2003, Chandra",NS,persistent ,soft,"MAXI lc, Asai+2022",1.01e+22,8.0,,,Migliari+2003,
+7,4U_1735-44,17 38 58.238405302,-44 27 00.699118812,0.1,"Gaia Collaboration 2020, Gaia",NS,persistent,soft,Muñoz-Daria+2014,2.75e+21,8.5,1.3,1.3,Galloway+2008,
+8,4U_1822-00,18 25 22.020,-00 00 43.00,0.6,"Juett&Chakrabarty 2005, Chandra",NS,persistent,hard,,3.36e+21,6.3,2.0,2.0,Shahbaz+2007,
+9,4U_1915-05,19 18 47.871 ,-05 14 17.09,0.6,"Iaria+2006, Chandra",NS,persistent ,hard,"BAT/MAXI lc, Muñoz-Daria+2014",2.34e+21,8.9,1.3,1.3,Galloway+2008,
+10,9_XMMSL1_J171900.4-353217,,,,,unknown,transient,quiescence ,,,,,,,Multiple counterparts
+11,AX_J1538.3-5541,,,,,unknown,transient,hard,,,,,,,Multiple counterparts
+12,AX_J1620.1-5002,,,,,WD/HMXB?,transient,hard,,,,,,,Multiple counterparts
+13,AX_J1818.8-1559,,,,,NS ,,,,,,,,,Multiple counterparts
+14,EXO_0748-676,07 48 33.70944,-67 45 07.722,0.2,"Monet+2003, PMM",NS,transient,quiescence,,8.97e+20,7.4,0.9,0.9,Galloway+2008,
+15,GS_1826-24,18 29 28.2,-23 47 49.1,2.0,"Barret+1995, ESO-MPI",NS,persistent,hard,Muñoz-Daria+2014,2.01e+21,5.7,0.2,0.2,Chenevez+2016 ,Source blended
+16,GX_339-4,17 02 49.3876391282,-48 47 23.087954552,0.1,"Gaia Collaboration 2020, Gaia",BH,transient,quiescence,,3.89e+21,10.0,2.0,2.0,Zdziarski+2019,
+17,GX_9+9,17 31 44.17464,-16 57 40.8852,1.0,"Cutri+2003, 2MASS",NS,persistent,soft,Muñoz-Daria+2014,1.9e+21,10.0,,,Savolainen+2008,
+18,IGR_J1706.2-6143,17 06 16.3,-61 42 40.5,0.3,"Ricci+2008, UVOT",NS,persistent,hard,,1.02e+21,7.3,0.5,0.5,Keek+2017,Source blended
+19,IGR_J17091-3624,17 09 7.61,-36 24 25.7,0.6,"Bodaghee+2012, Chandra",BH,transient,quiescence,,5.81e+21,14.0,3.0,3.0,Rodriguez+2011,
+20,IGR_J17494-3030,17 49 23.61,-30 29 59.1,0.15,"van den Eijnden+2020, VLA",NS,transient,quiescence,,6.72e+21,8.0,,,,Source undetected
+21,IGR_J17494-3030,17 49 23.61,-30 29 59.1,0.15,"van den Eijnden+2020, VLA",NS,transient,quiescence,,6.72e+21,8.0,,,,FSRED chrashes
+22,MAXI_J0556-332,05 56 46.3,-33 10 26.3,0.5,"Coriat+2011, ACTA",NS,transient,quiescence,,2.65e+20,46.0,15.0,15.0,Homan+2014,
+23,MAXI_J1305-704,13 06 55.300,-70 27 05.11,0.07,"Coriat+2012, ACTA",BH,transient,quiescence,,2.08e+21,7.5,1.8,1.4,Mata Sánchez+2021,
+24,MAXI_J1421-613,14 21 37.2,-61 36 25.4,0.3,"Coriat+2014, ACTA",NS,transient,quiescence,,1.66e+22,3.0,,,Nobukawa+2020,Source undetected
+25,MXB_1659-28,17 02 06.54 ,-29 56 44.1,0.3,"Wijnands+2003, Chandra",NS,transient,quiescence,,1.74e+21,12.0,3.0,3.0,Galloway+2008,
+26,RX_J1735.3-3540,17 35 23.75,-35 40 16.1,0.56,"Israel+2008, UVOT",NS,persistent,hard,,5.76e+21,9.5,,,Degenaar+2010,
+27,RXS_J170854.4-321857,17 08 54.269,-32 19 57.13,0.6,"Zand+2005, Chandra",NS,persistent,hard,,2.5e+21,13.0,2.0,2.0,Zand+2005,
+28,RXS_J171824.2-402934,17 18 24.144,-40 29 33.04,0.6,"t Zand+2005, Chandra",NS,persistent,hard,,6.68e+21,9.0,,,"t Zand+2005, Chandra",Source blended
+29,RXS_J180408.9-342058,18 4 8.371,-34 20 51.38,0.5,"Baglio+2015, EFOSC2",NS,transient,quiescence,,1.94e+21,5.8,,,Chenevez+2012,
+30,SAX_J1712.6-3739,17 12 36.77,-37 38 41.028,0.6,"Wiersema+2009, Chandra",NS,persistent,hard,,1.13e+22,7.0,,,Cocchi+2001,
+31,SAX_J1806.5-2215,18 06 32.177,-22 14 17.20,0.6,"Chakrabarty+2011, Chandra",NS,transient,hard,,9.97e+21,8.0,,,Cornelisse+2002,Source blended
+32,SAX_J1818.7+1424,,,,,NS,persistent,,,,,,,,Multiple counterparts
+33,Ser_X-1,18 39 57.557,5 2 9.5,0.14,"Migliari+2004, VLA",NS,persistent,soft,Muñoz-Daria+2014,4.4e+21,10.0,1.1,1.1,Galloway+2008,Source blended
+34,SLX_1735-269,17 38 17.12 ,-26 59 38.6,0.6,"Wilson+2003, Chandra",NS,persistent,soft,"MAXI lc, Muñoz-Daria+2014",3.73e+21,6.0,1.2,1.2,Molkov+2004,
+35,SLX_1737-282,,,,,NS,persistent,,,,,,,,Source behind very bright star
+36,Swift_J1357.2-0933,13 57 16.8357790011,-09 32 38.796487512,0.1,"Gaia Collaboration 2020, Gaia",BH,transient,quiescence,,2.85e+20,4.3,2.0,2.0,"lower limit: Sánchez+2015, upper limit: Shahbaz+2013",
+37,Swift_J1822.3-1606,,,,,NS ,,,,,,,,,Multiple counterparts
+38,Swift_J1910.2-0546,19 10 22.79,-05 47 56.4,1.3,"Rau+2012, GROND",BH,transient,quiescence,,2.24e+21,6.9,,,Reis+2013,
+39,Swift_J1922.7-1716,19 22 37.00,-17 17 1.1,0.61,"Barthelmy+2011, UVOT",NS,transient,quiescence,,7.38e+20,4.8,,,Degenaar+2012,Source undetected
+40,UW_Crb,16 05 45.8746697208,25 51 45.246497976,0.1,"Gaia Collaboration 2020, Gaia",NS,persistent,unknown,,4.2e+20,7.0,,,Hakala+2005,
+41,XMMi_J115004.8-22442,,,,,unknown,transient,,,,,,,,FSRED chrashes
+42,XMMU_J174716.1-281048,,,,,NS,transient,quiescence,,,,,,,Multiple counterparts
+43,XSS_J12270-4859,12 27 58.7476831466,-48 53 42.824592947,0.1,"Gaia Collaboration 2020, Gaia",NS ,transient,hard,de Martino+2015,1.07e+21,1.37,0.69,0.15,de Martino+2020,
+44,XTE_J1637-498,16 37 2.66 ,-49 51 40.0,0.16,"Curran+2011, EFOSC2/NTT",unknown,transient,quiescence,,7.36e+21,8.0,,,,No X-ray data
+45,XTE_J1710-281,17 10 12.532,-28 07 50.95,1.0,"Watson+2008, XMMN",NS,persistent,hard,Muñoz-Daria+2014,2.31e+21,16.0,,,Galloway+2008,Source blended
+46,XTE_J1719-291,17 19 17.18,-29 04 10.0,0.2,"Greiner+2008, Chandra",NS,transient,quiescence,,3.01e+21,8.0,,,,Source undetected
+47,XTE_J1728-295,17 28 38.853,-29 21 43.181,0.15,"Van den Eijnden+2019, VLA",BH,transient,quiescence ,,4.49e+21,8.0,,,,Source undetected
+48,XTE_J1901+014,19 1 40.2 ,1 26 26.5,0.64,"Karasev+2012, Chandra",unknown,transient,unknown if XRB,,8.49e+21,8.0,,,,Source undetected

@@ -1,0 +1,50 @@
+Source,RA,DEC,poserror,poslit,NS/BH,Transient/persistent,Hard/soft state ,State_source,nH,Distance,D_errup,D_errlow,Distance_source,Note
+1E_1743.1-2843,,,,,NS,persistent,hard ,,,,,,,Multiple counterparts
+2E_17467-3225,,,,,NS,persistent,hard,,,,,,,
+2S_0918-549,,,,,NS,persistent,hard,Muñoz-Daria+2014,,,,,,
+4U_1323-619,,,,,NS,persistent ,hard,Muñoz-Daria+2014,,,,,,Source blended
+4U_1626-67,,,,,NS,persistent,unknown,,,,,,,
+4U_1702-429,,,,,NS,persistent,hard,"BAT/MAXI lc, Muñoz-Daria+2014",,,,,,Source blended
+4U_1708-40,,,,,NS,persistent ,soft,"MAXI lc, Asai+2022",,,,,,
+4U_1735-44,,,,,NS,persistent,soft,Muñoz-Daria+2014,,,,,,
+4U_1822-00,,,,,NS,persistent,hard,,,,,,,
+4U_1915-05,,,,,NS,persistent ,hard,"BAT/MAXI lc, Muñoz-Daria+2014",,,,,,
+9_XMMSL1_J171900.4-353217,,,,,unknown,transient,quiescence ,,,,,,,Multiple counterparts
+AX_J1538.3-5541,,,,,unknown,transient,hard,,,,,,,Multiple counterparts
+AX_J1620.1-5002,,,,,WD/HMXB?,transient,hard,,,,,,,Multiple counterparts
+AX_J1818.8-1559,,,,,NS ,N/A,,,,,,,,Multiple counterparts
+EXO_0748-676,,,,,NS,transient,quiescence,,,,,,,
+GS_1826-24,,,,,NS,persistent,hard,Muñoz-Daria+2014,,,,,,Source blended
+GX_339-4,,,,,BH,transient,quiescence,,,,,,,
+GX_9+9,,,,,NS,persistent,soft,Muñoz-Daria+2014,,,,,,
+IGR_J1706.2-6143,,,,,NS,persistent,hard,,,,,,,Source blended
+IGR_J17091-3624,,,,,BH,transient,quiescence,,,,,,,
+IGR_J17494-3030,,,,,NS,transient,quiescence,,,,,,,Source undetected
+IGR_J17494-3030,,,,,NS,transient,quiescence,,,,,,,FSRED chrashes
+MAXI_J0556-332,,,,,NS,transient,quiescence,,,,,,,
+MAXI_J1305-704,,,,,BH,transient,quiescence,,,,,,,
+MAXI_J1421-613,,,,,NS,transient,quiescence,,,,,,,Source undetected
+MXB_1659-28,,,,,NS,transient,quiescence,,,,,,,
+RX_J1735.3-3540,,,,,NS,persistent,hard,,,,,,,
+RXS_J170854.4-321857,,,,,NS,persistent,hard,,,,,,,
+RXS_J171824.2-402934,,,,,NS,persistent,hard,,,,,,,Source blended
+RXS_J180408.9-342058,,,,,NS,transient,quiescence,,,,,,,
+SAX_J1712.6-3739,,,,,NS,persistent,hard,,,,,,,
+SAX_J1806.5-2215,,,,,NS,transient,hard,,,,,,,Source blended
+SAX_J1818.7+1424,,,,,NS,persistent,,,,,,,,Multiple counterparts
+Ser_X-1,,,,,NS,persistent,soft,Muñoz-Daria+2014,,,,,,Source blended
+SLX_1735-269,,,,,NS,persistent,soft,"MAXI lc, Muñoz-Daria+2014",,,,,,
+SLX_1737-282,,,,,NS,persistent,,,,,,,,Source behind very bright star
+Swift_J1357.2-0933,,,,,BH,transient,quiescence,,,,,,,
+Swift_J1822.3-1606,,,,,NS ,N/A,,,,,,,,Multiple counterparts
+Swift_J1910.2-0546,,,,,BH,transient,quiescence,,,,,,,
+Swift_J1922.7-1716,,,,,NS,transient,quiescence,,,,,,,Source undetected
+UW_Crb,,,,,NS,persistent,unknown,,,,,,,
+XMMi_J115004.8-22442,,,,,unknown,transient,,,,,,,,FSRED chrashes
+XMMU_J174716.1-281048,,,,,NS,transient,quiescence,,,,,,,Multiple counterparts
+XSS_J12270-4859,,,,,NS ,transient,hard,de Martino+2015,,,,,,
+XTE_J1637-498,,,,,unknown,transient,quiescence,,,,,,,No X-ray data
+XTE_J1710-281,,,,,NS,persistent,hard,Muñoz-Daria+2014,,,,,,Source blended
+XTE_J1719-291,,,,,NS,transient,quiescence,,,,,,,Source undetected
+XTE_J1728-295,,,,,BH,transient,quiescence ,,,,,,,Source undetected
+XTE_J1901+014,,,,,unknown,transient,unknown if XRB,,,,,,,Source undetected
