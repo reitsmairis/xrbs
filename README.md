@@ -2,7 +2,7 @@
 This GitHub includes scripts to preview, calibrate, and extract photometric FourStar Near-InfraRed (NIR) image data of possible Low-Mass X-ray Binary (LMXB) counterparts that results from the FSRED pipeline.
 
 Author: Iris Reitsma <br />
-Co-authors: Dr. Juan Hernandez Santisteban & Jari van opijnen <br />
+Co-authors: Dr. Juan Hernández Santisteban & Jari van opijnen <br />
 
 ## About the Project
 This project is a thesis for the Master Physics and Astronomy with the track Astronomy and Astrophysics at the University of Amsterdam. The project was started in September 2022 and ended in August 2023. 
