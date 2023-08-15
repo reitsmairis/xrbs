@@ -3,10 +3,6 @@ This GitHub includes scripts to preview, calibrate, and extract photometric Four
 
 Author: Iris Reitsma <br />
 Co-authors: Dr. Juan Hernandez Santisteban & Jari van opijnen <br />
-Data for the project is obtained by: 
-- Dr. Nathalie Degenaar (2013-2014)
-- Aastha S. Parikh & Prof. Dr. Rudy Wijnands (2018)
-- Dr. Renee Ludlam (2018)
 
 ## About the Project
 This project is a thesis for the Master Physics and Astronomy with the track Astronomy and Astrophysics at the University of Amsterdam. The project was started in September 2022 and ended in August 2023. 
@@ -29,8 +25,6 @@ Below, we list the most important scripts and files that we used in our work.
 
 The [`Redundant`](./Redundant) folder holds scripts that we used as drafts or that are similar to the main scripts listed above but apply, e.g., another flux range or luminosity error. In addition, the folder holds files that we used for testing the scripts. 
 
-The [`linmix`](./linmix) folder holds the code to apply Markov-Chain Monte-Carlo analysis, for which more information can be found [here](https://linmix.readthedocs.io/en/latest/src/linmix.html). The method is developed by [Kelly (2007)](https://iopscience.iop.org/article/10.1086/519947/meta).
-
 ### Scripts
 The most important scripts for obtaining magnitudes from the FourStar data are:
 * [`FSRED_post_processing`](./FSRED_post_processing.ipynb): Preview, calibrate, and extract photometric FourStar image data of possible NIR counterparts within a presumed error circle indicating the LMXB position.
@@ -45,7 +39,7 @@ We created images of the data using the following notebooks:
 * [`Plot_luminosities`](./Plot_luminosities.ipynb): Create the NIR vs X-ray luminosity plots.
 
 The analysis was done with the following notebooks:
-* [`MCMC`](./MCMC.ipynb): Apply MCMC simulations for fitting linear relations to the NIR/X-ray data.
+* [`MCMC`](./MCMC.ipynb): Apply Markov-Chain Monte-Carlo analysis simulations for fitting linear relations to the NIR/X-ray data.
 * [`Clustering`](./Clustering.ipynb): Apply clustering algorithms to the NIR/X-ray data.
 
 For sources for which we did not know the X-ray state, we used the following notebook if MAXI or Swift-BAT data was available: 
@@ -87,3 +81,15 @@ LinkedIn: https://www.linkedin.com/in/iris-reitsma-269209139/
 
 Project link: https://github.com/reitsmairis/xrbs 
 
+## Acknowledgements
+Dr. Nathalie Degenaar supervised this project. Prof. dr. Rudy Wijnands was the second assessor in this project. For this project, we collaborated with Dr. Juan Hernández Santisteban.  <br />
+
+The  [`FSRED_post_processing`](./FSRED_post_processing.ipynb) is codeveloped by  Dr. Juan Hernández Santisteban and Jari van opijnen. <br />
+
+Data for the project is obtained by: 
+- Dr. Nathalie Degenaar (2013-2014)
+- Aastha S. Parikh & Prof. Dr. Rudy Wijnands (2018)
+- Dr. Renee Ludlam (2018)
+
+
+The [`MCMC`](./MCMC.ipynb) script holds the code to apply Markov-Chain Monte-Carlo analysis, for which more information can be found [here](https://linmix.readthedocs.io/en/latest/src/linmix.html). The method is developed by [Kelly (2007)](https://iopscience.iop.org/article/10.1086/519947/meta).
